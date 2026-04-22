@@ -1,6 +1,6 @@
 # LnxTrans
 
-**LnxTrans** é um tradutor de texto otimizado para o protocolo **LnxTrans**, utilizando o poder do **Dialeto** para auxiliar na tradução de mensagens em jogos de forma rápida e fluida. (codigo feito pelo claude code)
+**LnxTrans** é um tradutor de texto otimizado para o protocolo **LnxTrans**, utilizando o poder do **GoogleTranslatorAPI** para auxiliar na tradução de mensagens em jogos de forma rápida e fluida. (codigo feito pelo claude code)
 
 -----
 
@@ -13,6 +13,18 @@ Clique no botão abaixo para baixar os arquivos necessários:
 <h1>
   <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/LnxTrans/blob/main/LnxTrans.sh">DOWNLOAD</a>
 </h1>
+
+​Como instalar dependências necessárias:
+​Dependendo da sua distribuição Linux, abra o terminal e use o comando correspondente que está no seu código:
+​No Arch Linux:
+   ```bash
+    sudo pacman -S zenity curl jq wl-clipboard wtype
+   ```
+
+​No Ubuntu / Debian / Mint:
+   ```bash
+    sudo apt update && sudo apt install zenity curl jq wl-clipboard wtype
+   ```
 
 ### 2\. Preparação do Arquivo
 
@@ -54,6 +66,6 @@ O uso do LnxTrans é simples e focado em produtividade durante a jogatina:
 -----
 
 ## 🛠️ Tecnologias
-  * **Tradutor:** Dialeto
+  * **Tradutor:** GoogleTranslatorAPI
   * **Código feito pelo:** Claude Code
   * **Linguagem:** Shell Script
