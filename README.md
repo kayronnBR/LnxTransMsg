@@ -1,6 +1,6 @@
 # LnxTrans
 
-**WayTrans** é um tradutor de texto otimizado para o protocolo **LnxTrans**, utilizando o poder do **Dialeto** para auxiliar na tradução de mensagens em jogos de forma rápida e fluida. (codigo feito pelo claude code)
+**LnxTrans** é um tradutor de texto otimizado para o protocolo **LnxTrans**, utilizando o poder do **Dialeto** para auxiliar na tradução de mensagens em jogos de forma rápida e fluida. (codigo feito pelo claude code)
 
 -----
 
@@ -11,7 +11,7 @@
 Clique no botão abaixo para baixar os arquivos necessários:
 
 <h1>
-  <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/LnxTrans/blob/main/WayTrans.sh">DOWNLOAD</a>
+  <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/LnxTrans/blob/main/LnxTrans.sh">DOWNLOAD</a>
 </h1>
 
 ### 2\. Preparação do Arquivo
